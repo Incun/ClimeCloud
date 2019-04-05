@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/GameScene.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/ClearScene.unity
+  isLoaded: 0
+  isActive: 0
